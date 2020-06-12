@@ -1,0 +1,6 @@
+projectKey=Films.py
+serverUrl=http://localhost:9000
+serverVersion=8.3.1.34397
+dashboardUrl=http://localhost:9000/dashboard?id=Films.py
+ceTaskId=AXKEPWK-U3z7Pl-bKoG9
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXKEPWK-U3z7Pl-bKoG9
